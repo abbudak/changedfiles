@@ -1,0 +1,9 @@
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\bin\Debug\ChangedFiles.exe.config
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\bin\Debug\ChangedFiles.exe
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\bin\Debug\ChangedFiles.pdb
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.csprojResolveAssemblyReference.cache
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.Form1.resources
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.Properties.Resources.resources
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.csproj.GenerateResource.Cache
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.exe
+c:\users\standart\documents\visual studio 2015\Projects\ChangedFiles\ChangedFiles\obj\Debug\ChangedFiles.pdb
